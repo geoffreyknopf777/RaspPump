@@ -9,7 +9,7 @@ If you've never carved a pumpkin before, [here](https://www.wikihow.com/Carve-a-
 
 Follow the instructions [here](https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi) for connecting the HC-SR04 sonar to the Raspberry Pi. This project assumes TRIG is connected to GPIO pin 23 and ECHO is connected to GPIO pin 24.
 
-Follow the instructions [here]https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins for connecting an LED to the Raspberry Pi. This project assumes the LED is connected to GPIO pin 25. 
+Follow the instructions [here](https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins) for connecting an LED to the Raspberry Pi. This project assumes the LED is connected to GPIO pin 25. 
 
 ### Installing
 
