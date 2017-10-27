@@ -5,11 +5,11 @@ A Raspberry Pi inspired pumpkin which lights up and has an evil laugh if you get
 
 Materials: Pumpkin, Raspberry Pi 2 B, HC-SR04 sonar, LED, Resistors, mini breadboard, jumper wires, speaker with headphone jack connector
 
-If you've never carved a pumpkin before, here's a good place to start https://www.wikihow.com/Carve-a-Pumpkin
+If you've never carved a pumpkin before, [here](https://www.wikihow.com/Carve-a-Pumpkin) is a good place to start
 
-Follow the instructions at https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi for connecting the HC-SR04 sonar to the Raspberry Pi. This project assumes TRIG is connected to GPIO pin 23 and ECHO is connected to GPIO pin 24.
+Follow the instructions [here](https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi) for connecting the HC-SR04 sonar to the Raspberry Pi. This project assumes TRIG is connected to GPIO pin 23 and ECHO is connected to GPIO pin 24.
 
-Follow the instructions at https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins for connecting an LED to the Raspberry Pi. This project assumes the LED is connected to GPIO pin 25. 
+Follow the instructions [here]https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins for connecting an LED to the Raspberry Pi. This project assumes the LED is connected to GPIO pin 25. 
 
 ### Installing
 
@@ -68,12 +68,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## References
-
-* Sonar - https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi
-* LED - https://thepihut.com/blogs/raspberry-pi-tutorials/27968772-turning-on-an-led-with-your-raspberry-pis-gpio-pins
-* Audio - https://raspberrypi.stackexchange.com/questions/49672/how-to-play-mp3-on-background-from-command-line
 
 ## Acknowledgements
 
